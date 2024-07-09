@@ -16,7 +16,9 @@
   },
   "dependencies": {
     "babelGeneratedDoubleDefault": "file:./babelGeneratedDoubleDefault",
+    "typescript": "^5.5.3",
     "@swc-node/register": "1.10.2",
+    "@swc/core": "^1.6.13",
     "tsx": "^4.15.5"
   },
   "scripts": {
